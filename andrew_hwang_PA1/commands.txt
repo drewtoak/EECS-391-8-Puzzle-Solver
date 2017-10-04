@@ -1,0 +1,17 @@
+printState
+setState 4b2 735 816
+printState
+solve A-star h1
+printState
+setState 4b2 735 816
+printState
+solve A-star h2
+printState
+setState 4b2 735 816
+printState
+solve beam 10
+printState
+setState 4b2 735 816
+printState
+solve beam 20
+printState
